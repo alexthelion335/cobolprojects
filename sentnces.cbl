@@ -3,7 +3,7 @@
 000300 ENVIRONMENT DIVISION.
 000400 DATA DIVISION.
 000500 PROCEDURE DIVISION.
-000600
+000600* This is a comment. It is not a sentence.                        
 000700 PROGRAM-BEGIN.
 000800     DISPLAY "This program contains four DIVISIONS,".
 000900     DISPLAY "three PARAGRAPHS".
